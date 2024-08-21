@@ -1,0 +1,12 @@
+Name: Company1
+Owner: Owner1
+Number: 123456789
+Address: Address1
+Activity: Activity1
+---------------------------
+Name: Company2
+Owner: Owner2
+Number: 987654321
+Address: Address2
+Activity: Activity2
+---------------------------
